@@ -1,9 +1,16 @@
 # Amazing-Incremental-Object-Detection
 ## Papers
 ### 2021
+- Incremental Object Detection via Meta-Learning (TPAMI 2021) [[paper]](https://arxiv.org/abs/2003.08798) [[code]](https://github.com/JosephKJ/iOD)
+- Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)
+- Wanderlust: Online Continual Object Detection in the Real World (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wanderlust_Online_Continual_Object_Detection_in_the_Real_World_ICCV_2021_paper.pdf)  
+- Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning (ICCV 2021) [[paper]](https://arxiv.org/abs/2106.09701) [[code]](https://github.com/GT-RIPL/AlwaysBeDreaming-DFCIL)
 - Towards Open World Object Detection (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf) [[code]](https://github.com/JosephKJ/OWOD) [[video]](https://www.youtube.com/watch?v=aB2ZFAR-OZg)
 ### 2020
-- Incremental Few-Shot Object Detection (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.pdf)
+- Incremental Few-Shot Object Detection (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.pdf)  
+- RODEO: Replay for Online Object Detection (BMVC 2020) [[paper]](https://arxiv.org/abs/2008.06439) [[code]](https://github.com/manoja328/rodeo)
+### 2019
+- An End-to-End Architecture for Class-Incremental Object Detection with Knowledge Distillation (IEEE ICME 2019) [[paper]](https://ieeexplore.ieee.org/document/8784755)
 ### 2017
 - Incremental Learning of Object Detectors Without Catastrophic Forgetting (ICCV 2017) [[paper]](https://arxiv.org/abs/1708.06977v1)  
 - iCaRL: Incremental classifier and Representation Learning (CVPR 2017) [[paper]](https://arxiv.org/abs/1611.07725) [[code]](https://github.com/srebuffi/iCaRL)
