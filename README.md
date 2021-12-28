@@ -1,5 +1,7 @@
 # Amazing-Incremental-Object-Detection
 ## Papers
+### 2021
+- Towards Open World Object Detection (CVPR, 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf) [[code]](https://github.com/JosephKJ/OWOD) [[video]](https://www.youtube.com/watch?v=aB2ZFAR-OZg)
 ### 2020
 - Incremental Few-Shot Object Detection (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.pdf)
 ### 2017
