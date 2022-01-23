@@ -19,7 +19,7 @@
 ### 2014
 - Distilling the Knowledge in a Neural Network（NIPS 2014）[[paper]](https://arxiv.org/abs/1503.02531)
 # Amazing Knowledge Distillation for Object Detection
-Knowledge distillation for incremental learning to avoid catastrophic forgetting
+Knowledge distillation for incremental learning to avoid catastrophic forgetting.
 ## Papers
 ### 2021
 - G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation (ICCV 2021) [[paper]](https://arxiv.org/abs/2108.07482)  
