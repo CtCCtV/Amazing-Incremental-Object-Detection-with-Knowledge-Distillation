@@ -18,3 +18,17 @@
 - Learning without Forgetting (ECCV 2016) [[paper]](https://arxiv.org/abs/1606.09282) [[code]](https://github.com/lizhitwo/LearningWithoutForgetting)
 ### 2014
 - Distilling the Knowledge in a Neural Network（NIPS 2014）[[paper]](https://arxiv.org/abs/1503.02531)
+# Amazing Knowledge Distillation for Object Detection
+Knowledge distillation for incremental learning to avoid catastrophic forgetting
+## Papers
+### 2021
+- G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation (ICCV 2021) [[paper]](https://arxiv.org/abs/2108.07482)  
+- End-to-End Semi-Supervised Object Detection with Soft Teacher (ICCV 2021)[[papaer]](https://arxiv.org/abs/2106.09018) [[code]](https://github.com/microsoft/SoftTeacher)  
+- Distilling Knowledge via Knowledge Review (CVPR 2021) [[paper]](https://arxiv.org/abs/2104.09044) [[code]](https://github.com/dvlab-research/ReviewKD)  
+- General Instance Distillation for Object Detection (CVPR 2021) [[paper]](https://arxiv.org/abs/2103.02340)  
+- Distilling Object Detectors via Decoupled Features (CVPR 2021) [[paper]](https://arxiv.org/abs/2103.14475) [[code]](https://github.com/ggjy/DeFeat.pytorch)
+- Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors (ICLR 2021) [[paper]](https://openreview.net/forum?id=uKhGRvM8QNH) [[code]](https://github.com/ArchipLab-LinfengZhang/Object-Detection-Knowledge-Distillation-ICLR2021)  
+### 2019
+- Distilling Object Detectors with Fine-grained Feature Imitation (CVPR 2019) [[paper]](https://arxiv.org/abs/1906.03609) [[code]](https://github.com/twangnh/Distilling-Object-Detectors)
+### 2017
+- Learning Efficient Object Detection Models with Knowledge Distillation (NIPS 2017) [[paper]](https://proceedings.neurips.cc/paper/2017/hash/e1e32e235eee1f970470a3a6658dfdd5-Abstract.html)
