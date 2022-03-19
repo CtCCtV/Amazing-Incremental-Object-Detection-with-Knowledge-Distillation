@@ -1,5 +1,7 @@
 # Amazing-Incremental-Object-Detection
 ## Papers
+### 2022
+- Focal and Global Knowledge Distillation for Detectors (CVPR 2022) [[paper]](https://arxiv.org/abs/2111.11837v1) [[code]](https://github.com/yzd-v/FGD)
 ### 2021
 - Incremental Object Detection via Meta-Learning (TPAMI 2021) [[paper]](https://arxiv.org/abs/2003.08798) [[code]](https://github.com/JosephKJ/iOD)
 - Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)
