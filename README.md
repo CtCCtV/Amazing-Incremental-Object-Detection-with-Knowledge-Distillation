@@ -25,6 +25,7 @@ Knowledge distillation can be used for incremental learning to avoid catastrophi
 - Focal and Global Knowledge Distillation for Detectors (CVPR 2022) [[paper]](https://arxiv.org/abs/2111.11837v1) [[code]](https://github.com/yzd-v/FGD)
 - Localization Distillation for Dense Object Detection （CVPR 2022） [[paper]](https://arxiv.org/abs/2102.12252) [[code]](https://github.com/HikariTJU/LD)
 - Decoupled Knowledge Distillation （CVPR 2022）[[paper]](https://arxiv.org/abs/2203.08679) [[code]](https://github.com/megvii-research/mdistiller)
+- Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation （AAAI 2022）[[paper]](https://arxiv.org/abs/2112.04840)
 ### 2021
 - G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation (ICCV 2021) [[paper]](https://arxiv.org/abs/2108.07482)  
 - End-to-End Semi-Supervised Object Detection with Soft Teacher (ICCV 2021)[[papaer]](https://arxiv.org/abs/2106.09018) [[code]](https://github.com/microsoft/SoftTeacher)  
