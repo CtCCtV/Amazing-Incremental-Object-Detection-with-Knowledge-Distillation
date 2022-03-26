@@ -1,8 +1,5 @@
 # Amazing-Incremental-Object-Detection
 ## Papers
-### 2022
-- Focal and Global Knowledge Distillation for Detectors (CVPR 2022) [[paper]](https://arxiv.org/abs/2111.11837v1) [[code]](https://github.com/yzd-v/FGD)
-- Localization Distillation for Dense Object Detection （CVPR 2022） [[paper]](https://arxiv.org/abs/2102.12252) [[code]](https://github.com/HikariTJU/LD)
 ### 2021
 - Incremental Object Detection via Meta-Learning (TPAMI 2021) [[paper]](https://arxiv.org/abs/2003.08798) [[code]](https://github.com/JosephKJ/iOD)
 - Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)
@@ -21,9 +18,13 @@
 - Learning without Forgetting (ECCV 2016) [[paper]](https://arxiv.org/abs/1606.09282) [[code]](https://github.com/lizhitwo/LearningWithoutForgetting)
 ### 2014
 - Distilling the Knowledge in a Neural Network（NIPS 2014）[[paper]](https://arxiv.org/abs/1503.02531)
-# Amazing Incremental Object Detection with Knowledge Distillation  
-Knowledge distillation for incremental learning to avoid catastrophic forgetting.
+# Amazing Object Detection with Knowledge Distillation  
+Knowledge distillation can be used for incremental learning to avoid catastrophic forgetting.
 ## Papers
+### 2022
+- Focal and Global Knowledge Distillation for Detectors (CVPR 2022) [[paper]](https://arxiv.org/abs/2111.11837v1) [[code]](https://github.com/yzd-v/FGD)
+- Localization Distillation for Dense Object Detection （CVPR 2022） [[paper]](https://arxiv.org/abs/2102.12252) [[code]](https://github.com/HikariTJU/LD)
+- Decoupled Knowledge Distillation （CVPR 2022）[[paper]](https://arxiv.org/abs/2203.08679) [[code]](https://github.com/megvii-research/mdistiller)
 ### 2021
 - G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation (ICCV 2021) [[paper]](https://arxiv.org/abs/2108.07482)  
 - End-to-End Semi-Supervised Object Detection with Soft Teacher (ICCV 2021)[[papaer]](https://arxiv.org/abs/2106.09018) [[code]](https://github.com/microsoft/SoftTeacher)  
