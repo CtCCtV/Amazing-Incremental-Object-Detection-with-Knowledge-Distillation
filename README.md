@@ -6,6 +6,7 @@ Knowledge distillation can be used for incremental/continual/continuous/lifelong
 - Localization Distillation for Dense Object Detection （CVPR 2022） [[paper]](https://arxiv.org/abs/2102.12252) [[code]](https://github.com/HikariTJU/LD)
 - Decoupled Knowledge Distillation （CVPR 2022）[[paper]](https://arxiv.org/abs/2203.08679) [[code]](https://github.com/megvii-research/mdistiller)
 - Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation （AAAI 2022）[[paper]](https://arxiv.org/abs/2112.04840)
+- Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation (CVPR 2022) [[paper]](https://arxiv.org/abs/2204.02136) [[code]](https://github.com/Hi-FT/ERD)
 ### 2021
 - G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation (ICCV 2021) [[paper]](https://arxiv.org/abs/2108.07482)  
 - Incremental Object Detection via Meta-Learning (TPAMI 2021) [[paper]](https://arxiv.org/abs/2003.08798) [[code]](https://github.com/JosephKJ/iOD)
